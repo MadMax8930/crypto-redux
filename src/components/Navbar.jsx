@@ -23,12 +23,12 @@ const Navbar = () => {
                   <Link to='/exchanges'>Exchanges</Link>
                </Menu.Item>
                <Menu.Item icon={<BulbOutlined />}>
-                  <Link to='/new'>News</Link>
+                  <Link to='/news'>News</Link>
                </Menu.Item>
             </Menu>
          </div>
       </div>
   )
-}
+};
 
-export default Navbar
+export default Navbar;
