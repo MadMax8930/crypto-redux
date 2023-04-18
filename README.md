@@ -6,7 +6,7 @@
 ### Dependencies
 
 ```bash
-npm install 
+npm install axios antd @ant-design/icons react-redux @reduxjs/toolkit chart.js react-chartjs-2 react-router-dom html-react-parser millify moment
 ``` 
 
 ### Development server:
@@ -16,7 +16,7 @@ npm start
 ```
 
 ### Frontend Framework: 
-[AntDesign](https://chakra-ui.com/getting-started) documentation
+[AntDesign](https://ant.design/components/overview) documentation
 
 ### Backend Framework:
 [Next.js docs](https://nextjs.org/docs) for more details <br />
