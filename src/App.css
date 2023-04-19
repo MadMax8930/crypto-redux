@@ -300,10 +300,13 @@ a:hover{
 .news-title{
 width: 70%;
 }
-
 .news-image-container .img{
    width:100px;
    height:100px;
+}
+.news-image {
+   max-width:200px;
+   max-height:100px;
 }
 .news-card p{
    color: black;
