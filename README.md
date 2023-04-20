@@ -1,12 +1,13 @@
 ### Crypto Redux application bootstrapped with [`npx create-react-app ./`]
 
-### API: 
-[RapidAPI](https://rapidapi.com/Coinranking/api/coinranking1) called Coinranking
+### RapidAPI: 
+[Coinranking](https://rapidapi.com/Coinranking/api/coinranking1) API
+[Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1) API
 
 ### Dependencies
 
 ```bash
-npm install axios antd @ant-design/icons react-redux @reduxjs/toolkit chart.js react-chartjs-2 react-router-dom html-react-parser millify moment
+npm install axios antd @ant-design/icons react-redux @reduxjs/toolkit chart.js react-chartjs-2 react-router-dom millify moment
 ``` 
 
 ### Development server:
