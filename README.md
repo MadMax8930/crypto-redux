@@ -1,8 +1,8 @@
 ### Crypto Redux application bootstrapped with [`npx create-react-app ./`]
 
 ### RapidAPI: 
-[Coinranking](https://rapidapi.com/Coinranking/api/coinranking1) API
-[Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1) API
+[Coinranking](https://rapidapi.com/Coinranking/api/coinranking1) <br />
+[Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1)
 
 ### Dependencies
 
@@ -23,4 +23,4 @@ npm start
 [Redux docs](https://redux.js.org/introduction/getting-started) for more details
 
 ### Deployment
-[Project deployed](https://crypto-redux.netlify.app) on Netlify.
+[Project deployed](https://crypto-redux-news.netlify.app) on Netlify.
