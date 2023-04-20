@@ -26,8 +26,9 @@ const App = () => {
             </Layout>
             <div className='footer'>
                <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
-                  Crypto Redux <br />
-                  All rights reserved
+                  Copyright © 2021{" "}
+                  <Link to="/">Crypto Redux</Link><br />
+                  All Rights Reserved.
                </Typography.Title>
                <Space>
                   <Link to='/'>Home</Link>
